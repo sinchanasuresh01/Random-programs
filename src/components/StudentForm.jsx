@@ -1,6 +1,6 @@
 
 import { useState, useEffect } from 'react';
-import Button from './button';
+import Button from './Button';
 
 const emptyStudent = {
   name: '',

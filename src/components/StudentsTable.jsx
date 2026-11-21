@@ -1,5 +1,5 @@
 
-import Button from "./button";
+import Button from "./Button";
 
 export default function StudentTable({ students, onDelete }) {
   if (students.length === 0)
